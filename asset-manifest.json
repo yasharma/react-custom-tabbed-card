@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-custom-tabbed-card/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/react-custom-tabbed-card/static/js/main.478ca9d9.chunk.js",
+    "main.js.map": "/react-custom-tabbed-card/static/js/main.478ca9d9.chunk.js.map",
+    "runtime-main.js": "/react-custom-tabbed-card/static/js/runtime-main.a021e32d.js",
+    "runtime-main.js.map": "/react-custom-tabbed-card/static/js/runtime-main.a021e32d.js.map",
+    "static/js/2.e9f42fa0.chunk.js": "/react-custom-tabbed-card/static/js/2.e9f42fa0.chunk.js",
+    "static/js/2.e9f42fa0.chunk.js.map": "/react-custom-tabbed-card/static/js/2.e9f42fa0.chunk.js.map",
+    "static/js/3.4bf7c900.chunk.js": "/react-custom-tabbed-card/static/js/3.4bf7c900.chunk.js",
+    "static/js/3.4bf7c900.chunk.js.map": "/react-custom-tabbed-card/static/js/3.4bf7c900.chunk.js.map",
+    "index.html": "/react-custom-tabbed-card/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/react-custom-tabbed-card/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.e9f42fa0.chunk.js.LICENSE.txt": "/react-custom-tabbed-card/static/js/2.e9f42fa0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a021e32d.js",
+    "static/js/2.e9f42fa0.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.478ca9d9.chunk.js"
+  ]
+}
